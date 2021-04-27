@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: blue;
+  font-family: 'Xenotron';
+}
+p {
+  color: blue 
+}
+@font-face {
+  font-family: Xenotron;
+  src: url(Xenotron.ttf);
+}
+
